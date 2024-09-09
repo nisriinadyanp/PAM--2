@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pam1</string>
+    <string name="hint">Masukkan angka</string>
+    <string-array name="pilOperator">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </string-array>
+    <string name="tbHitung">Hitung</string>
+    <string name="psnErrNol">Pembagi tidak boleh nol</string>
+</resources>
